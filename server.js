@@ -14,6 +14,8 @@ app.use(cors({
 app.get('/health', (req, res) => {
   res.status(200).send('OK');
 });
+app.use('/images', express.static('images'));
+
 
 
 const server = http.createServer(app);
