@@ -11,6 +11,10 @@ app.use(cors({
   methods: ["GET", "POST"],
   credentials: true
 }));
+app.get('/health', (req, res) => {
+  res.status(200).send('OK');
+});
+
 
 const server = http.createServer(app);
 
