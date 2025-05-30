@@ -1,14 +1,35 @@
 const express = require('express');
 const http = require('http');
 const { Server } = require('socket.io');
-const path = require('path');
+const cors = require('cors');
 
 const app = express();
-const server = http.createServer(app);
-const io = new Server(server);
 
-// Serve i file statici dalla cartella 'public'
-app.use(express.static(path.join(__dirname, 'public')));
+// Abilita CORS per tutte le origini o solo per la tua frontend
+app.use(cors({
+  origin: 'https://thewordgames.netlify.app',  // il dominio della tua app frontend
+  methods: ["GET", "POST"],
+  credentials: true
+}));
+
+const server = http.createServer(app);
+
+const io = new Server(server, {
+  cors: {
+    origin: "https://thewordgames.netlify.app",  // IMPORTANTE
+    methods: ["GET", "POST"],
+    credentials: true
+  }
+});
+
+io.on('connection', (socket) => {
+  console.log('Un client si è connesso');
+  // gestione socket qui
+});
+
+server.listen(process.env.PORT || 3000, () => {
+  console.log('Server in ascolto');
+});
 
 const PORT = process.env.PORT || 3000;
 const POINTS_TO_WIN = 10000; // Punteggio target per la vittoria
