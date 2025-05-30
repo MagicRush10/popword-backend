@@ -53,8 +53,8 @@ const questions = [
     {
         id: 'q2',
         type: 'image',
-        question: "Da dove proviene questa immagine?",
-        imageUrl: "/images/star_wars_vader.jpg", // Assicurati di avere questa immagine in public/images
+        question: "Da quale film proviene questa immagine?",
+        imageUrl: "/images/star_wars.jpg",
         answer: "Star Wars",
         category: "Cinema",
         hint: "Una saga spaziale epica."
@@ -103,7 +103,7 @@ const questions = [
         id: 'q8',
         type: 'text',
         question: "Chi ha scritto 'Romeo e Giulietta'?",
-        answer: "William Shakespeare",
+        answer: "Shakespeare",
         category: "Letteratura",
         hint: "Un drammaturgo inglese molto famoso."
     },
