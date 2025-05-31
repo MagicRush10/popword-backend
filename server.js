@@ -43,7 +43,7 @@ const PORT = process.env.PORT || 3000;
 const POINTS_TO_WIN = 10000; // Punteggio target per la vittoria
 const QUESTION_TIME = 20; // Tempo per rispondere ad ogni domanda in secondi
 const TIME_BETWEEN_ROUNDS = 5; // Tempo tra una domanda e l'altra
-const BASE_URL = process.env.BASE_URL || `http://localhost:${PORT}`;
+
 
 // --- Dati del gioco (simulazione di un DB) ---
 const questions = [
@@ -59,7 +59,7 @@ const questions = [
         id: 'q2',
         type: 'image',
         question: "Da quale film proviene questa immagine?",
-        imageUrl: "${BASE_URL}/images/starwars.jpg",
+        imageUrl: "/images/starwars.jpg",
         answer: "Star Wars",
         category: "Cinema",
         hint: "Una saga spaziale epica."
