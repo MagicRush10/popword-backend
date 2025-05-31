@@ -58,7 +58,7 @@ const questions = [
         id: 'q2',
         type: 'image',
         question: "Da quale film proviene questa immagine?",
-        imageUrl: "public/images/star_wars.jpg",
+        imageUrl: "https://popword-backend.com/images/star_wars.jpg",
         answer: "Star Wars",
         category: "Cinema",
         hint: "Una saga spaziale epica."
