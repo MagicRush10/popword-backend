@@ -57,7 +57,7 @@ const questions = [
         id: 'q2',
         type: 'image',
         question: "Da quale film proviene questa immagine?",
-        imageUrl: "https://thewordgames.netlify.app/images/star_wars.jpg"
+        imageUrl: "public/images/star_wars.jpg"
         answer: "Star Wars",
         category: "Cinema",
         hint: "Una saga spaziale epica."
