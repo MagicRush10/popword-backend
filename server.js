@@ -14,7 +14,8 @@ app.use(cors({
 app.get('/health', (req, res) => {
   res.status(200).send('OK');
 });
-app.use('/images', express.static('public/images'));
+app.use(express.static('public'));
+
 
 
 
