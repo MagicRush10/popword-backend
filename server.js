@@ -168,6 +168,14 @@ const questions = [
         answer: "Pelle",
         category: "Scienze",
         hint: "Ti copre tutto."
+    },
+   {
+        id: 'q16',
+        type: 'text',
+        question: "Chi ha vinto la Champions League 2024/2025?.",
+        answer: "PSG",
+        category: "Sport",
+        hint: "Squadra francese"
     }
 ];
 
