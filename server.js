@@ -168,7 +168,6 @@ const questions = [
   {id: 'q118', type: 'text', question: "In 'One Punch Man', chi è l'eroe protagonista?", answer: "Saitama", category: "Anime e Manga", hint: "Calvo e fortissimo"},
   {id: 'q119', type: 'text', question: "Come si chiama la ragazza con i capelli blu in 'Re:Zero'?", answer: "Rem", category: "Anime e Manga", hint: "Gemella di Ram"},
   {id: 'q120', type: 'text', question: "Chi è il detective che dà la caccia a Kira in 'Death Note'?", answer: "L", category: "Anime e Manga", hint: "Mangia dolci e si accovaccia"}
-  ]
 ];
 
 // Mappa per tenere traccia delle lobby attive
