@@ -127,6 +127,7 @@ const questions = [
   {id: 'q77', type: 'text', question: "Qual è il continente più vasto?", answer: "Asia", category: "Geografia", hint: "Copre entrambi i fossati Europa/Asia"},
   {id: 'q78', type: 'text', question: "In che anno terminò la Guerra dei Cent'anni?", answer: "1453", category: "Storia", hint: "Francia vs Inghilterra"},
   {id: 'q79', type: 'text', question: "Chi ha scritto 'Guerra e Pace'?", answer: "Lev Tolstoj", category: "Letteratura", hint: "Romanzo russo epico"},
+  {id: 'q80',type: 'text',question: "Qual è il nome dell'antica arma associata all'isola di Skypiea e menzionata da Nico Robin?",answer: "Poseidon",category: "Anime e Manga",hint: "È una delle tre armi ancestrali, ma il suo vero potere si scopre molto dopo"},
   {id: 'q81', type: 'text', question: "Chi ha composto la 'Grande Fuga' (The Great Escape Theme)?", answer: "Elmer Bernstein", category: "Musica", hint: "Colonna sonora celebre"},
   {id: 'q82', type: 'text', question: "Qual è la capitale dell'Egitto?", answer: "Il Cairo", category: "Geografia", hint: "Vicino alle piramidi"},
   {id: 'q83', type: 'text', question: "In che anno fu scoperta l'America da Colombo?", answer: "1492", category: "Storia", hint: "Ripetuta domanda sulle scoperte"},
