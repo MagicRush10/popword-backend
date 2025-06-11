@@ -99,6 +99,8 @@ const questions = [
   {id: 'q49', type: 'text', question: "Qual è la capitale della Spagna?", answer: "Madrid", category: "Geografia", hint: "Nel centro della penisola iberica"},
   {id: 'q50', type: 'text', question: "In che anno fu fondata Roma, secondo la leggenda?", answer: "753 a.C.", category: "Storia", hint: "Romolo e Remo"},
   {id: 'q51', type: 'text', question: "Chi ha dipinto il 'Guernica'?", answer: "Pablo Picasso", category: "Arte", hint: "Spagnolo cubista"},
+  {id: 'q52',type: 'text',question: "Chi ha vinto i Mondiali di calcio 2022?",answer: "Argentina",category: "Sport",hint: "Paese sudamericano guidato da Messi"},
+  {id: 'q53',type: 'text',question: "Quante medaglie d'oro ha vinto Michael Phelps alle Olimpiadi?",answer: "23",category: "Sport",hint: "Più di 20"},
   {id: 'q54', type: 'text', question: "Qual è il più grande oceano del mondo?", answer: "Oceano Pacifico", category: "Geografia", hint: "Tra Asia e Americhe"},
   {id: 'q55', type: 'text', question: "Chi ha scoperto l'America per gli Europei (secondo la narrativa storica)?", answer: "Cristoforo Colombo", category: "Storia", hint: "1492"},
   {id: 'q56', type: 'text', question: "Qual è la particella con carica negativa presente nell'atomo?", answer: "Elettrone", category: "Scienza", hint: "Orbita intorno al nucleo"},
