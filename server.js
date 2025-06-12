@@ -168,7 +168,255 @@ const questions = [
         answer: "Pelle",
         category: "Scienze",
         hint: "Ti copre tutto."
-    }
+    },
+  {
+        id: 'q16',
+        type: 'text',
+        question: "In One Piece, come si chiama il frutto del diavolo mangiato da Monkey D.Luffy?",
+        answer: "Gum Gum",
+        category: "Anime e Manga",
+        hint: "Il frutto che lo rende un uomo di gomma."
+    },
+  {
+        id: 'q17',
+        type: 'text',
+        question: "In One Piece, qual'è il nome della prima nave dei Mugiwara?",
+        answer: "Going Merry",
+        category: "Anime e Manga",
+        hint: "La prima nave con la testa di capra."
+    },
+  {
+        id: 'q18',
+        type: 'text',
+        question: "In One Piece, qual'è il soprannome di Roronoa Zoro?",
+        answer: "Cacciatore di pirati",
+        category: "Anime e Manga",
+        hint: "Prima di entrare nella ciurma,ne andava a caccia."
+    },
+  {
+        id: 'q19',
+        type: 'text',
+        question: "Nel manga di One Piece,qual'è il numero del capitolo dove appare per la prima volta Chopper?",
+        answer: "134",
+        category: "Anime e Manga",
+        hint: "Compreso tra 120 e 140."
+    },
+  {
+        id: 'q20',
+        type: 'text',
+        question: "In One piece, Qual è il nome dell'isola dove viene giustiziato Gol D. Roger?",
+        answer: "Loguetown",
+        category: "Anime e Manga",
+        hint: "Situata nell'East Blue."
+    },
+  {
+        id: 'q21',
+        type: 'text',
+        question: "In One Piece,Qual è il numero del capitolo finale della saga di Wano?",
+        answer: "1057",
+        category: "Anime e Manga",
+        hint: "Compreso tra 1030 e 1060."
+    },
+  {
+        id: 'q22',
+        type: 'text',
+        question: "In Dragon Ball,qual è il nome del pianeta natale dei Saiyan?",
+        answer: "Vegeta",
+        category: "Anime e Manga",
+        hint: "Nome del principe dei Saiyan."
+    },
+  {
+        id: 'q23',
+        type: 'text',
+        question: "In Dragon Ball,come si chiama la fusione tra Goku e Vegeta con gli orecchini Potara?",
+        answer: "Vegeku",
+        category: "Anime e Manga",
+        hint: "Da non confondere con l'altra fusione."
+    },
+  {
+        id: 'q24',
+        type: 'text',
+        question: "In Dragon Ball,come si chiama l'asssistente del Dio della Distruzione del 7 Universo?",
+        answer: "Whis",
+        category: "Anime e Manga",
+        hint: "Appartenente alla razza aliena degli Angeli."
+    },
+  {
+        id: 'q25',
+        type: 'text',
+        question: "In Dragon Ball,in quale capitolo si trasforma per la prima volta Freezer?",
+        answer: "299",
+        category: "Anime e Manga",
+        hint: "Compreso tra 270 e 300."
+    },
+  {
+        id: 'q26',
+        type: 'text',
+        question: "In Dragon Ball,qual è il numero del capitolo in cui Goku diventa Super Saiyan per la prima volta?",
+        answer: "317",
+        category: "Anime e Manga",
+        hint: "Compreso tra 300 e 330."
+    },
+  {
+        id: 'q27',
+        type: 'text',
+        question: "In Dragon Ball,qual è il numero del capitolo in cui Goku diventa Super Saiyan per la prima volta?",
+        answer: "317",
+        category: "Anime e Manga",
+        hint: "Compreso tra 300 e 330."
+    },
+  {
+        id: 'q28',
+        type: 'text',
+        question: "In Dragon Ball,a che età Piccolo sfida per la prima volta Goku?",
+        answer: "3",
+        category: "Anime e Manga",
+        hint: "Sotto i 20."
+    },
+  {
+        id: 'q29',
+        type: 'text',
+        question: "In Dragon Ball,qual è il luogo d'origine della danza della Fusione?",
+        answer: "Metamor",
+        category: "Anime e Manga",
+        hint: "Li incontra Goku nell'aldilà."
+    },
+  {
+        id: 'q30',
+        type: 'text',
+        question: "In Dragon Ball,a quanto tempo corrisponde un minuto nella Stanza dello Spirito e del Tempo?",
+        answer: "6 ore",
+        category: "Anime e Manga",
+        hint: "Scrivi il numero + minuti/ore/giorni."
+    },
+  {
+        id: 'q31',
+        type: 'text',
+        question: "In Jujustu Kaisen,qual è il nome del Re delle Maledizioni?",
+        answer: "Sukuna",
+        category: "Anime e Manga",
+        hint: "Il più grande stregone mai esistito."
+    },
+  {
+        id: 'q32',
+        type: 'text',
+        question: "In Jujustu Kaisen,qual è il nome della tecnica di Megumi Fushiguro?",
+        answer: "Tecnica delle Dieci Ombre",
+        category: "Anime e Manga",
+        hint: "Nome completo in italiano."
+    },
+  {
+        id: 'q33',
+        type: 'text',
+        question: "In Jujustu Kaisen,qual è il nome della maledizione che ha l'aspetto di un pesce?",
+        answer: "Dagon",
+        category: "Anime e Manga",
+        hint: "Un famoso antagonista."
+    },
+  {
+        id: 'q34',
+        type: 'text',
+        question: "In Jujustu Kaisen,qual è il nome del villaggio in cui è nato Yuji?",
+        answer: "Sendai",
+        category: "Anime e Manga",
+        hint: "Villaggio nativo di Yuji e famosa città giapponese."
+    },
+  {
+        id: 'q35',
+        type: 'text',
+        question: "In Jujustu Kaisen,chi è il Re dei Fratelli maledetti?",
+        answer: "Choso",
+        category: "Anime e Manga",
+        hint: "Personaggio metà umano."
+    },
+  {
+        id: 'q36',
+        type: 'text',
+        question: "In Jujustu Kaisen,qual è il numero del capitolo in cui Satoru Gojo viene sigillato?",
+        answer: "90",
+        category: "Anime e Manga",
+        hint: "Compreso tra 70 e 100."
+    },
+  {
+        id: 'q37',
+        type: 'text',
+        question: "In Attack on Titan,chi è il primo proprietario del Gigante Colossale?",
+        answer: "Bertholdt",
+        category: "Anime e Manga",
+        hint: "Ragazzo molto silenzioso."
+    },
+  {
+        id: 'q38',
+        type: 'text',
+        question: "In Attack on Titan,come si chiama il corpo che esplora oltre le mura della città?",
+        answer: "Corpo di Ricerca",
+        category: "Anime e Manga",
+        hint: "Corpo scelto dal protagonista."
+    },
+  {
+        id: 'q39',
+        type: 'text',
+        question: "In Attack on Titan,qual è il numero del capitolo in cui viene rivelata la verità sul mondo?",
+        answer: "86",
+        category: "Anime e Manga",
+        hint: "Compreso tra 50 e 90."
+    },
+  {
+        id: 'q40',
+        type: 'text',
+        question: "In Attack on Titan,qual è il nome del distretto dove vive Eren?",
+        answer: "Shiganshina",
+        category: "Anime e Manga",
+        hint: "Luogo nativo del protagonista."
+    },
+  {
+        id: 'q41',
+        type: 'text',
+        question: "In Attack on Titan,qual è il numero del capitolo finale?",
+        answer: "Shiganshina",
+        category: "Anime e Manga",
+        hint: "Si dice che in giappone il numero successivo indichi la libertà, quella mai raggiunta da Eren."
+    },
+  {
+        id: 'q42',
+        type: 'text',
+        question: "In Attack on Titan,qual è il nome della ragazza che indossa sempre una sciarpa rossa?",
+        answer: "Mikasa",
+        category: "Anime e Manga",
+        hint: "Sorella adottiva di Eren."
+    },
+  {
+        id: 'q43',
+        type: 'text',
+        question: "In Attack on Titan,cosa c'è dentro le mura?",
+        answer: "Giganti",
+        category: "Anime e Manga",
+        hint: "Colpo di scena alla fine della 1 stagione."
+    },
+  {
+        id: 'q44',
+        type: 'text',
+        question: "In Attack on Titan,di quale continente fa parte la città cinta da mura in cui vive Eren?",
+        answer: "Paradis",
+        category: "Anime e Manga",
+        hint: "Isola dove tutto è nato."
+    },
+  {
+        id: 'q45',
+        type: 'text',
+        question: "In Attack on Titan,quale arma anti Gigante ha sviluppato Hange?",
+        answer: "Lance fulmine",
+        category: "Anime e Manga",
+        hint: "Arma usata per eliminare i giganti."
+    },
+  {
+        id: 'q46',
+        type: 'text',
+        question: "In Attack on Titan,quanti giganti mutaforma esistono?",
+        answer: "9",
+        category: "Anime e Manga",
+        hint: "Numero compreso tra 7 e 12."
+    },
 ];
 
 // Mappa per tenere traccia delle lobby attive
