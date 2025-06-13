@@ -421,7 +421,7 @@ const questions = [
         id: 'q47',
         type: 'image',
         question: "Come si chiama questo personaggio?",
-        imageUrl: "/images/hange.jpg",
+        imageUrl: "/images/hange.png",
         answer: "Hange",
         category: "Anime e Manga",
         hint: "Comandante del Corpo di Ricerca dopo Erwin."
