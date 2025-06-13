@@ -417,6 +417,15 @@ const questions = [
         category: "Anime e Manga",
         hint: "Numero compreso tra 7 e 12."
     },
+  {
+        id: 'q47',
+        type: 'image',
+        question: "Come si chiama questo personaggio?",
+        imageUrl: "/images/hange.jpg",
+        answer: "Hange",
+        category: "Anime e Manga",
+        hint: "Comandante del Corpo di Ricerca dopo Erwin."
+    },
 ];
 
 // Mappa per tenere traccia delle lobby attive
