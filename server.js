@@ -166,7 +166,7 @@ const questions = [
         category: "Scienze",
         hint: "Ti copre tutto."
     },
-  {
+  /*{
         id: 'q16',
         type: 'text',
         question: "In One Piece, come si chiama il frutto del diavolo mangiato da Monkey D.Luffy?",
@@ -413,7 +413,7 @@ const questions = [
         answer: "9",
         category: "Anime e Manga",
         hint: "Numero compreso tra 7 e 12."
-    },
+    },*/
   {
         id: 'q47',
         type: 'image',
