@@ -12,8 +12,8 @@ app.use(cors({
   methods: ["GET", "POST"],
   credentials: true
 }));
-app.get('/health', (req, res) => {
-  res.status(200).send('OK');
+app.get('/', (req, res) => {
+  res.sendFile(path.join(__dirname, 'public', 'gioco7.html'));
 });
 app.use(express.static(path.join(__dirname, 'public')));
 
