@@ -418,7 +418,7 @@ const questions = [
         id: 'q47',
         type: 'image',
         question: "Come si chiama questo personaggio?",
-        imageUrl: "https://thewordgames.netlify.app/images/hange.jpg",
+        imageUrl: "https://thewordgames.netlify.app/public/images/hange.jpg",
         answer: "Hange",
         category: "Anime e Manga",
         hint: "Comandante del Corpo di Ricerca dopo Erwin."
