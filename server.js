@@ -164,7 +164,7 @@ const questions = [
         answer: "Pelle",
         category: "Scienze",
         hint: "Ti copre tutto."
-    },
+    },/*
   {
         id: 'q16',
         type: 'text',
@@ -500,6 +500,23 @@ const questions = [
         answer: "Prima Selezione",
         category: "Anime e Manga",
         hint: "La prima fase dove si sfidano le squadre."
+    },
+   {
+        id: 'q58',
+        type: 'text',
+        question: "In Blue Lock,qual è il nome della prima fase del Blue Lock?",
+        answer: "Prima Selezione",
+        category: "Anime e Manga",
+        hint: "La prima fase dove si sfidano le squadre."
+    },*/
+   {
+        id: 'q59',
+        type: 'image',
+        imageUrl: "https://thewordgames.netlify.app/image/hange.jpg",
+        question: "Come si chiama questo personaggio?",
+        answer: "Hange",
+        category: "Anime e Manga",
+        hint: "Comandante del Corpo di Ricerca dopo Erwin."
     },
 ];
 
