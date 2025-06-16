@@ -512,7 +512,7 @@ const questions = [
    {
         id: 'q59',
         type: 'image',
-        imageUrl: "https://thewordgames.netlify.app/image/hange.jpg",
+        imageUrl: "https://thewordgames.netlify.app/images/hange.jpg",
         question: "Come si chiama questo personaggio?",
         answer: "Hange",
         category: "Anime e Manga",
