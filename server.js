@@ -55,12 +55,11 @@ const questions = [
     },
     {
         id: 'q2',
-        type: 'image',
-        question: "Da dove proviene questa immagine?",
-        imageUrl: "/images/star_wars_vader.jpg", // Assicurati di avere questa immagine in public/images
-        answer: "Star Wars",
+        type: 'text',
+        question: "In quale film Leonardo DiCaprio interpreta il personaggio di Jack Dawson?",
+        answer: "Titanic",
         category: "Cinema",
-        hint: "Una saga spaziale epica."
+        hint: "Film tragico."
     },
     {
         id: 'q3',
@@ -416,14 +415,94 @@ const questions = [
     },
   {
         id: 'q47',
-        type: 'image',
-        question: "Come si chiama questo personaggio?",
-        imageUrl: "https://thewordgames.netlify.app/public/images/hange.jpg",
-        answer: "Hange",
+        type: 'text',
+        question: "In Attack on Titan,che rapporto ha Kenny lo Squartatore con Levi Ackerman?",
+        answer: "Zio",
         category: "Anime e Manga",
-        hint: "Comandante del Corpo di Ricerca dopo Erwin."
+        hint: "Rapporto con la madre."
+    },
+  {
+        id: 'q48',
+        type: 'text',
+        question: "In Blue Lock,qual è il soprannome di Yoichi Isagi?",
+        answer: "Reazionario",
+        category: "Anime e Manga",
+        hint: "Soprannome che significa non progressista."
+    },
+  {
+        id: 'q49',
+        type: 'text',
+        question: "In Blue Lock,chi è il genio attaccante che Isagi vuole superare?",
+        answer: "Rin Itoshi",
+        category: "Anime e Manga",
+        hint: "Considerato il più forte."
+    },
+  {
+        id: 'q50',
+        type: 'text',
+        question: "In Blue Lock,chi è il giocatore che è ossessionato dal flow?",
+        answer: "Reazionario",
+        category: "Anime e Manga",
+        hint: "Ragazzo dai capelli biondi."
+    },
+  {
+        id: 'q51',
+        type: 'text',
+        question: "In Blue Lock,qual è il nome della squadra formata dai migliori giocatori del Blue Lock?",
+        answer: "Blue Lock Eleven",
+        category: "Anime e Manga",
+        hint: "Nazionale Under20 giapponese."
+    },
+  {
+        id: 'q52',
+        type: 'text',
+        question: "In Blue Lock,chi è il giocatore con i capelli rosa che è molto orgoglioso?",
+        answer: "Reo Mikage",
+        category: "Anime e Manga",
+        hint: "Ragazzo molto ricco."
+    },
+  {
+        id: 'q53',
+        type: 'text',
+        question: "In Blue Lock,qual è il nome del giocatore che è il genio silenzioso?",
+        answer: "Yo Hiori",
+        category: "Anime e Manga",
+        hint: "Figlio di atleti."
+    },
+  {
+        id: 'q54',
+        type: 'text',
+        question: "In Blue Lock,qual è il numero del capitolo in cui Isagi segna il suo primo gol egoistico?",
+        answer: "27",
+        category: "Anime e Manga",
+        hint: "Compreso tra 10 e 30"
+    },
+   {
+        id: 'q55',
+        type: 'text',
+        question: "In Blue Lock,qual è il numero del capitolo in cui la squadra del Blue Lock affronta la squadra nazionale giovanile?",
+        answer: "125",
+        category: "Anime e Manga",
+        hint: "Compreso tra 100 e 130"
+    },
+   {
+        id: 'q56',
+        type: 'text',
+        question: "In Blue Lock,qual è il nome del club italiano in cui un giocatore del Blue Lock va a giocare?",
+        answer: "Ubers",
+        category: "Anime e Manga",
+        hint: "Probabilmente si ispira alla Juventus."
+    },
+  {
+        id: 'q57',
+        type: 'text',
+        question: "In Blue Lock,qual è il nome della prima fase del Blue Lock?",
+        answer: "Prima Selezione",
+        category: "Anime e Manga",
+        hint: "La prima fase dove si sfidano le squadre."
     },
 ];
+
 
 // Mappa per tenere traccia delle lobby attive
 const lobbies = {}; // lobbyId: { hostId, players: [{ id, name, score }], chatMessages: [], currentState, game: { ... } }
