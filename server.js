@@ -164,7 +164,7 @@ const questions = [
         answer: "Pelle",
         category: "Scienze",
         hint: "Ti copre tutto."
-    },/*
+    },
   {
         id: 'q16',
         type: 'text',
@@ -508,7 +508,7 @@ const questions = [
         answer: "Prima Selezione",
         category: "Anime e Manga",
         hint: "La prima fase dove si sfidano le squadre."
-    },*/
+    },
    {
         id: 'q59',
         type: 'image',
