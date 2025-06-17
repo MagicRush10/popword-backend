@@ -518,6 +518,15 @@ const questions = [
         category: "Anime e Manga",
         hint: "Comandante del Corpo di Ricerca dopo Erwin."
     },
+  {
+        id: 'q60',
+        type: 'image',
+        imageUrl: "https://thewordgames.netlify.app/public/images/lucario.jpg",
+        question: "Come si chiama questo pokemon?",
+        answer: "Lucario",
+        category: "Pokemon",
+        hint: "Pokemon tipo Lotta/Acciaio di quarta generazione."
+    },
 ];
 
 
