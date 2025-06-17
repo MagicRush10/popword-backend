@@ -527,6 +527,16 @@ const questions = [
         category: "Pokemon",
         hint: "Pokemon tipo Lotta/Acciaio di quarta generazione."
     },
+  {
+        id: 'q61',
+        type: 'image',
+        imageUrl: "https://thewordgames.netlify.app/public/images/gengar.jpg",
+        question: "Come si chiama questo pokemon?",
+        answer: "Gengar",
+        category: "Pokemon",
+        hint: "Pokemon tipo Spettro molto famoso."
+    },
+ 
 ];
 
 
