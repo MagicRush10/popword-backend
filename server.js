@@ -581,6 +581,87 @@ const questions = [
         category: "Pokemon",
         hint: "Pokemon tipo Coleottero/Volante."
     },
+  {
+        id: 'q67',
+        type: 'image',
+        imageUrl: "https://thewordgames.netlify.app/public/images/wobbuffet.jpg",
+        question: "Come si chiama questo pokemon?",
+        answer: "Wobbuffet",
+        category: "Pokemon",
+        hint: "Pokemon tipo Psico."
+    },
+  {
+        id: 'q68',
+        type: 'image',
+        imageUrl: "https://thewordgames.netlify.app/public/images/starmie.jpg",
+        question: "Come si chiama questo pokemon?",
+        answer: "Starmie",
+        category: "Pokemon",
+        hint: "Pokemon tipo Acqua/Psico."
+    },
+  {
+        id: 'q69',
+        type: 'image',
+        imageUrl: "https://thewordgames.netlify.app/public/images/munna.jpg",
+        question: "Come si chiama questo pokemon?",
+        answer: "Munna",
+        category: "Pokemon",
+        hint: "Pokemon tipo Psico."
+    },
+  {
+        id: 'q70',
+        type: 'image',
+        imageUrl: "https://thewordgames.netlify.app/public/images/gardevoir.jpg",
+        question: "Come si chiama questo pokemon?",
+        answer: "Gardevoir",
+        category: "Pokemon",
+        hint: "Pokemon tipo Psico/Folletto."
+    },
+  {
+        id: 'q71',
+        type: 'image',
+        imageUrl: "https://thewordgames.netlify.app/public/images/aurorus.jpg",
+        question: "Come si chiama questo pokemon?",
+        answer: "Aurorus",
+        category: "Pokemon",
+        hint: "Pokemon tipo Roccia/Ghiaccio."
+    },
+  {
+        id: 'q72',
+        type: 'image',
+        imageUrl: "https://thewordgames.netlify.app/public/images/delibird.jpg",
+        question: "Come si chiama questo pokemon?",
+        answer: "Delibird",
+        category: "Pokemon",
+        hint: "Pokemon tipo Ghiaccio/Volante."
+    },
+    {
+        id: 'q73',
+        type: 'image',
+        imageUrl: "https://thewordgames.netlify.app/public/images/piloswine.jpg",
+        question: "Come si chiama questo pokemon?",
+        answer: "Piloswine",
+        category: "Pokemon",
+        hint: "Pokemon tipo Ghiaccio/Terra."
+    },
+    {
+        id: 'q74',
+        type: 'image',
+        imageUrl: "https://thewordgames.netlify.app/public/images/weavile.jpg",
+        question: "Come si chiama questo pokemon?",
+        answer: "Weavile",
+        category: "Pokemon",
+        hint: "Pokemon tipo Buio/Ghiaccio."
+    },
+  {
+        id: 'q75',
+        type: 'image',
+        imageUrl: "https://thewordgames.netlify.app/public/images/vanilluxe.jpg",
+        question: "Come si chiama questo pokemon?",
+        answer: "Vanilluxe",
+        category: "Pokemon",
+        hint: "Pokemon tipo Ghiaccio."
+    },
  
 ];
 
