@@ -38,7 +38,7 @@ server.listen(process.env.PORT || 3000, () => {
 });
 
 const PORT = process.env.PORT || 3000;
-const POINTS_TO_WIN = 200; // Punteggio target per la vittoria
+const POINTS_TO_WIN = 2000; // Punteggio target per la vittoria
 const QUESTION_TIME = 20; // Tempo per rispondere ad ogni domanda in secondi
 const TIME_BETWEEN_ROUNDS = 5; // Tempo tra una domanda e l'altra
 
