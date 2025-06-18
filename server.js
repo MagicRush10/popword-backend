@@ -536,6 +536,51 @@ const questions = [
         category: "Pokemon",
         hint: "Pokemon tipo Spettro molto famoso."
     },
+  {
+        id: 'q62',
+        type: 'image',
+        imageUrl: "https://thewordgames.netlify.app/public/images/volbeat.jpg",
+        question: "Come si chiama questo pokemon?",
+        answer: "Volbeat",
+        category: "Pokemon",
+        hint: "Pokemon tipo Coleottero."
+    },
+  {
+        id: 'q63',
+        type: 'image',
+        imageUrl: "https://thewordgames.netlify.app/public/images/leavanny.jpg",
+        question: "Come si chiama questo pokemon?",
+        answer: "Leavanny",
+        category: "Pokemon",
+        hint: "Pokemon tipo Coleottero/Erba."
+    },
+  {
+        id: 'q64',
+        type: 'image',
+        imageUrl: "https://thewordgames.netlify.app/public/images/galvantula.jpg",
+        question: "Come si chiama questo pokemon?",
+        answer: "Galvantuka",
+        category: "Pokemon",
+        hint: "Pokemon tipo Elettro/Coleottero."
+    },
+  {
+        id: 'q65',
+        type: 'image',
+        imageUrl: "https://thewordgames.netlify.app/public/images/centiskorch.jpg",
+        question: "Come si chiama questo pokemon?",
+        answer: "Centiskorch",
+        category: "Pokemon",
+        hint: "Pokemon tipo Fuoco/Coleottero."
+    },
+  {
+        id: 'q66',
+        type: 'image',
+        imageUrl: "https://thewordgames.netlify.app/public/images/vespiqueen.jpg",
+        question: "Come si chiama questo pokemon?",
+        answer: "Vespiqueen",
+        category: "Pokemon",
+        hint: "Pokemon tipo Coleottero/Volante."
+    },
  
 ];
 
