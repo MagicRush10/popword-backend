@@ -559,7 +559,7 @@ const questions = [
         type: 'image',
         imageUrl: "https://thewordgames.netlify.app/public/images/galvantula.jpg",
         question: "Come si chiama questo pokemon?",
-        answer: "Galvantuka",
+        answer: "Galvantula",
         category: "Pokemon",
         hint: "Pokemon tipo Elettro/Coleottero."
     },
