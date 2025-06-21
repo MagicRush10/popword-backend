@@ -662,6 +662,150 @@ const questions = [
         category: "Pokemon",
         hint: "Pokemon tipo Ghiaccio."
     },
+  {
+        id: 'q76',
+        type: 'image',
+        imageUrl: "https://thewordgames.netlify.app/public/images/fuecoco.jpg",
+        question: "Come si chiama questo pokemon?",
+        answer: "Fuecoco",
+        category: "Pokemon",
+        hint: "Pokemon tipo Fuoco."
+    },
+  {
+        id: 'q77',
+        type: 'image',
+        imageUrl: "https://thewordgames.netlify.app/public/images/drifblim.jpg",
+        question: "Come si chiama questo pokemon?",
+        answer: "Drifblim",
+        category: "Pokemon",
+        hint: "Pokemon tipo Spettro/Volante."
+    },
+  {
+        id: 'q78',
+        type: 'image',
+        imageUrl: "https://thewordgames.netlify.app/public/images/jellicent.jpg",
+        question: "Come si chiama questo pokemon?",
+        answer: "Jellicent",
+        category: "Pokemon",
+        hint: "Pokemon tipo Acqua/Spettro."
+    },
+  {
+        id: 'q79',
+        type: 'image',
+        imageUrl: "https://thewordgames.netlify.app/public/images/palossand.jpg",
+        question: "Come si chiama questo pokemon?",
+        answer: "Palossand",
+        category: "Pokemon",
+        hint: "Pokemon tipo Spettro/Terra."
+    }, 
+  {
+        id: 'q80',
+        type: 'image',
+        imageUrl: "https://thewordgames.netlify.app/public/images/persian.jpg",
+        question: "Come si chiama questo pokemon?",
+        answer: "Persian",
+        category: "Pokemon",
+        hint: "Pokemon tipo Normale."
+    },
+  {
+        id: 'q81',
+        type: 'image',
+        imageUrl: "https://thewordgames.netlify.app/public/images/snorlax.jpg",
+        question: "Come si chiama questo pokemon?",
+        answer: "Snorlax",
+        category: "Pokemon",
+        hint: "Pokemon tipo Normale."
+    },
+  {
+        id: 'q82',
+        type: 'image',
+        imageUrl: "https://thewordgames.netlify.app/public/images/ditto.jpg",
+        question: "Come si chiama questo pokemon?",
+        answer: "Ditto",
+        category: "Pokemon",
+        hint: "Non farti ingannare!"
+    },
+  {
+        id: 'q83',
+        type: 'image',
+        imageUrl: "https://thewordgames.netlify.app/public/images/eevee.jpg",
+        question: "Come si chiama questo pokemon?",
+        answer: "Eevee",
+        category: "Pokemon",
+        hint: "Pokemon tipo Normale."
+    },
+  {
+        id: 'q84',
+        type: 'image',
+        imageUrl: "https://thewordgames.netlify.app/public/images/vaporeon.jpg",
+        question: "Come si chiama questo pokemon?",
+        answer: "Vaporeon",
+        category: "Pokemon",
+        hint: "Pokemon tipo Acqua."
+    },
+  {
+        id: 'q85',
+        type: 'image',
+        imageUrl: "https://thewordgames.netlify.app/public/images/flareon.jpg",
+        question: "Come si chiama questo pokemon?",
+        answer: "Flareon",
+        category: "Pokemon",
+        hint: "Pokemon tipo Fuoco."
+    },
+  {
+        id: 'q86',
+        type: 'image',
+        imageUrl: "https://thewordgames.netlify.app/public/images/umbreon.jpg",
+        question: "Come si chiama questo pokemon?",
+        answer: "Umbreon",
+        category: "Pokemon",
+        hint: "Pokemon tipo Buio."
+    },
+  {
+        id: 'q87',
+        type: 'image',
+        imageUrl: "https://thewordgames.netlify.app/public/images/espeon.jpg",
+        question: "Come si chiama questo pokemon?",
+        answer: "Espeon",
+        category: "Pokemon",
+        hint: "Pokemon tipo Psico."
+    },
+  {
+        id: 'q88',
+        type: 'image',
+        imageUrl: "https://thewordgames.netlify.app/public/images/glaceon.jpg",
+        question: "Come si chiama questo pokemon?",
+        answer: "Glaceon",
+        category: "Pokemon",
+        hint: "Pokemon tipo Ghiaccio."
+    },
+  {
+        id: 'q89',
+        type: 'image',
+        imageUrl: "https://thewordgames.netlify.app/public/images/leafeon.jpg",
+        question: "Come si chiama questo pokemon?",
+        answer: "Leafeon",
+        category: "Pokemon",
+        hint: "Pokemon tipo Erba."
+    },
+  {
+        id: 'q90',
+        type: 'image',
+        imageUrl: "https://thewordgames.netlify.app/public/images/sylveon.jpg",
+        question: "Come si chiama questo pokemon?",
+        answer: "Sylveon",
+        category: "Pokemon",
+        hint: "Pokemon tipo Folletto."
+    },
+  {
+        id: 'q91',
+        type: 'image',
+        imageUrl: "https://thewordgames.netlify.app/public/images/jolteon.jpg",
+        question: "Come si chiama questo pokemon?",
+        answer: "Jolteon",
+        category: "Pokemon",
+        hint: "Pokemon tipo Elettro."
+    },
  
 ];
 
