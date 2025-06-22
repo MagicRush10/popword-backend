@@ -806,7 +806,96 @@ const questions = [
         category: "Pokemon",
         hint: "Pokemon tipo Elettro."
     },
- 
+  {
+        id: 'q92',
+        type: 'image',
+        imageUrl: "https://thewordgames.netlify.app/public/images/luxray.jpg",
+        question: "Come si chiama questo pokemon?",
+        answer: "Luxray",
+        category: "Pokemon",
+        hint: "Pokemon tipo Elettro."
+    },
+  {
+        id: 'q93',
+        type: 'image',
+        imageUrl: "https://thewordgames.netlify.app/public/images/elekid.jpg",
+        question: "Come si chiama questo pokemon?",
+        answer: "Elekid",
+        category: "Pokemon",
+        hint: "Pokemon tipo Elettro."
+    },
+  {
+        id: 'q94',
+        type: 'image',
+        imageUrl: "https://thewordgames.netlify.app/public/images/gallade.jpg",
+        question: "Come si chiama questo pokemon?",
+        answer: "Gallade",
+        category: "Pokemon",
+        hint: "Pokemon tipo Psico/Lotta."
+    },
+  {
+        id: 'q95',
+        type: 'image',
+        imageUrl: "https://thewordgames.netlify.app/public/images/infernape.jpg",
+        question: "Come si chiama questo pokemon?",
+        answer: "Infernape",
+        category: "Pokemon",
+        hint: "Pokemon tipo Fuoco/Lotta."
+    },
+  {
+        id: 'q96',
+        type: 'image',
+        imageUrl: "https://thewordgames.netlify.app/public/images/blaziken.jpg",
+        question: "Come si chiama questo pokemon?",
+        answer: "Blaziken",
+        category: "Pokemon",
+        hint: "Pokemon tipo Fuoco/Lotta."
+    },
+  {
+        id: 'q97',
+        type: 'image',
+        imageUrl: "https://thewordgames.netlify.app/public/images/tyrogue.jpg",
+        question: "Come si chiama questo pokemon?",
+        answer: "Tyrogue",
+        category: "Pokemon",
+        hint: "Pokemon tipo Lotta."
+    },
+  {
+        id: 'q98',
+        type: 'image',
+        imageUrl: "https://thewordgames.netlify.app/public/images/machop.jpg",
+        question: "Come si chiama questo pokemon?",
+        answer: "Machop",
+        category: "Pokemon",
+        hint: "Pokemon tipo Lotta."
+    },
+  {
+        id: 'q99',
+        type: 'image',
+        imageUrl: "https://thewordgames.netlify.app/public/images/machamp.jpg",
+        question: "Come si chiama questo pokemon?",
+        answer: "Machamp",
+        category: "Pokemon",
+        hint: "Pokemon tipo Lotta."
+    },
+  {
+        id: 'q100',
+        type: 'image',
+        imageUrl: "https://thewordgames.netlify.app/public/images/poliwrath.jpg",
+        question: "Come si chiama questo pokemon?",
+        answer: "Poliwrath",
+        category: "Pokemon",
+        hint: "Pokemon tipo Acqua/Lotta."
+    },
+  {
+        id: 'q101',
+        type: 'image',
+        imageUrl: "https://thewordgames.netlify.app/public/images/meganium.jpg",
+        question: "Come si chiama questo pokemon?",
+        answer: "Meganium",
+        category: "Pokemon",
+        hint: "Pokemon tipo Erba."
+    },
 ];
 
 
