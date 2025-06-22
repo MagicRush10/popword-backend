@@ -105,7 +105,7 @@ const questions = [
         id: 'q8',
         type: 'text',
         question: "Chi ha scritto 'Romeo e Giulietta'?",
-        answer: "William Shakespeare",
+        answer: "Shakespeare",
         category: "Letteratura",
         hint: "Un drammaturgo inglese molto famoso."
     },
@@ -958,6 +958,198 @@ const questions = [
         answer: "Charizard",
         category: "Pokemon",
         hint: "Pokemon tipo Fuoco/Volante."
+    },
+  {
+        id: 'q109',
+        type: 'text',
+        question: "Chi fu il primo imperatore romano?",
+        answer: "Ottaviano Augusto",
+        category: "Storia",
+        hint: "Successore di Giulio Cesare."
+    },
+  {
+        id: 'q110',
+        type: 'text',
+        question: "Chi fondò Roma?",
+        answer: "Romolo",
+        category: "Storia",
+        hint: "Uno dei gemelli allevati dalla lupa."
+    },
+  {
+        id: 'q111',
+        type: 'text',
+        question: "Quale civiltà costruì le piramidi?",
+        answer: "Egizi",
+        category: "Storia",
+        hint: "Vivevano lungo il Nilo."
+    },
+  {
+        id: 'q112',
+        type: 'text',
+        question: "Chi scrisse il primo codice di leggi?",
+        answer: "Hammurabi",
+        category: "Storia",
+        hint: "Occhio per occhio."
+    },
+  {
+        id: 'q113',
+        type: 'text',
+        question: "In che anno fu distrutta Pompei?",
+        answer: "79",
+        category: "Storia",
+        hint: "Eruzione del Vesuvio(scrivere solo l'anno)."
+    },
+  {
+        id: 'q114',
+        type: 'text',
+        question: "Che tipo di governo aveva Atene?",
+        answer: "Democrazia",
+        category: "Storia",
+        hint: "Ogni cittadino votava."
+    },
+   {
+        id: 'q115',
+        type: 'text',
+        question: "Contro chi combatterono gli spartani alle Termopili?",
+        answer: "Persiani",
+        category: "Storia",
+        hint: "Leonida e i 300."
+    },
+  {
+        id: 'q116',
+        type: 'text',
+        question: "Contro chi combatterono gli spartani alle Termopili?",
+        answer: "Persiani",
+        category: "Storia",
+        hint: "Leonida e i 300."
+    },
+  {
+        id: 'q117',
+        type: 'text',
+        question: "Chi fu incoronato imperatore nel 800?",
+        answer: "Carlo Magno",
+        category: "Storia",
+        hint: "Natale a Roma."
+    },
+  {
+        id: 'q118',
+        type: 'text',
+        question: "Chi fu l’ultimo imperatore romano d’Occidente?",
+        answer: "Romolo Augusto",
+        category: "Storia",
+        hint: "Deposto da Odoacre."
+    },
+  {
+        id: 'q119',
+        type: 'text',
+        question: "Dove si trovava Costantinopoli?",
+        answer: "Turchia",
+        category: "Storia",
+        hint: "Attuale Istanbul."
+    },
+  {
+        id: 'q120',
+        type: 'text',
+        question: "Che evento cambiò l’Europa nel 1347?",
+        answer: "Peste",
+        category: "Storia",
+        hint: "Milioni di morti."
+    },
+  {
+        id: 'q121',
+        type: 'text',
+        question: "Chi affisse le 95 tesi?",
+        answer: "Martin Lutero",
+        category: "Storia",
+        hint: "Protestava contro le indulgenze."
+    },
+  {
+        id: 'q132',
+        type: 'text',
+        question: "Qual è stato il principale teatro di guerra dal 2000?",
+        answer: "Medio Oriente",
+        category: "Storia",
+        hint: "Afghanistan, Iraq, Siria."
+    },
+  {
+        id: 'q123',
+        type: 'text',
+        question: "Quando scoppiò la Rivoluzione francese?",
+        answer: "1789",
+        category: "Storia",
+        hint: "Presa della Bastiglia."
+    },
+  {
+        id: 'q124',
+        type: 'text',
+        question: "Dove nacque la Rivoluzione industriale?",
+        answer: "Inghilterra",
+        category: "Storia",
+        hint: "Fabbriche e carbone."
+    },
+  {
+        id: 'q125',
+        type: 'text',
+        question: "Quando fu proclamato il Regno d’Italia?",
+        answer: "1861",
+        category: "Storia",
+        hint: "Dopo la spedizione dei Mille."
+    },
+  {
+        id: 'q126',
+        type: 'text',
+        question: "Chi fu il dittatore italiano durante la Seconda guerra mondiale?",
+        answer: "Benito Mussolini",
+        category: "Storia",
+        hint: "Fondò il fascismo."
+    },
+  {
+        id: 'q127',
+        type: 'text',
+        question: "Quando scoppiò la Prima guerra mondiale?",
+        answer: "1914",
+        category: "Storia",
+        hint: "Attentato a Sarajevo."
+    },
+  {
+        id: 'q128',
+        type: 'text',
+        question: "Quando scoppiò la Seconda guerra mondiale?",
+        answer: "1939",
+        category: "Storia",
+        hint: "Invasione della Polonia."
+    },
+  {
+        id: 'q129',
+        type: 'text',
+        question: "Quando finì la Seconda guerra mondiale?",
+        answer: "1945",
+        category: "Storia",
+        hint: "Bombe su Hiroshima e Nagasaki."
+    },
+  {
+        id: 'q130',
+        type: 'text',
+        question: "Quando si dissolse l’URSS?",
+        answer: "1991",
+        category: "Storia",
+        hint: "Gorbaciov al potere."
+    },
+  {
+        id: 'q131',
+        type: 'text',
+        question: "Quando nacque l’UE?",
+        answer: "1993",
+        category: "Storia",
+        hint: "Evoluzione della CEE."
+    },
+  {
+        id: 'q133',
+        type: 'text',
+        question: "Quale città è stata attaccata dalla Russia del 2022?",
+        answer: "Kiev",
+        category: "Storia",
+        hint: "Capitale del paese in conflitto con la Russia."
     },
   
 ];
