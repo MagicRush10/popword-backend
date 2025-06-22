@@ -896,6 +896,70 @@ const questions = [
         category: "Pokemon",
         hint: "Pokemon tipo Erba."
     },
+  {
+        id: 'q102',
+        type: 'image',
+        imageUrl: "https://thewordgames.netlify.app/public/images/meganium.jpg",
+        question: "Come si chiama questo pokemon?",
+        answer: "Meganium",
+        category: "Pokemon",
+        hint: "Pokemon tipo Erba."
+    },
+  {
+        id: 'q103',
+        type: 'image',
+        imageUrl: "https://thewordgames.netlify.app/public/images/sandshrew.jpg",
+        question: "Chi è questo pokemon?",
+        answer: "Sandshrew",
+        category: "Pokemon",
+        hint: "Pokemon tipo Terra."
+    },
+  {
+        id: 'q104',
+        type: 'image',
+        imageUrl: "https://thewordgames.netlify.app/public/images/Wonix.jpg",
+        question: "Chi è questo pokemon?",
+        answer: "Onix",
+        category: "Pokemon",
+        hint: "Pokemon tipo Roccia/Terra."
+    },
+  {
+        id: 'q105',
+        type: 'image',
+        imageUrl: "https://thewordgames.netlify.app/public/images/Wtrubbish.jpg",
+        question: "Chi è questo pokemon?",
+        answer: "Trubbish",
+        category: "Pokemon",
+        hint: "Pokemon tipo Veleno."
+    },
+  {
+        id: 'q106',
+        type: 'image',
+        imageUrl: "https://thewordgames.netlify.app/public/images/Wslugma.jpg",
+        question: "Chi è questo pokemon?",
+        answer: "Slugma",
+        category: "Pokemon",
+        hint: "Pokemon tipo Fuoco."
+    },
+  {
+        id: 'q107',
+        type: 'image',
+        imageUrl: "https://thewordgames.netlify.app/public/images/Wfennekin.jpg",
+        question: "Chi è questo pokemon?",
+        answer: "Fennekin",
+        category: "Pokemon",
+        hint: "Pokemon tipo Fuoco."
+    },
+  {
+        id: 'q108',
+        type: 'image',
+        imageUrl: "https://thewordgames.netlify.app/public/images/Wcharizard.jpg",
+        question: "Chi è questo pokemon?",
+        answer: "Charizard",
+        category: "Pokemon",
+        hint: "Pokemon tipo Fuoco/Volante."
+    },
+  
 ];
 
 
