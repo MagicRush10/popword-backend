@@ -1151,7 +1151,302 @@ const questions = [
         category: "Storia",
         hint: "Capitale del paese in conflitto con la Russia."
     },
-  
+  {
+        id: 'q134',
+        type: 'text',
+        question: "Chi ha diretto il film Titanic?",
+        answer: "James Cameron",
+        category: "Cinema",
+        hint: "Stesso regista di Avatar."
+    },
+  {
+        id: 'q135',
+        type: 'text',
+        question: "In che anno è uscito il primo film di Harry Potter?",
+        answer: "2001",
+        category: "Cinema",
+        hint: "È uscito lo stesso anno del primo iPod."
+    },
+  {
+        id: 'q136',
+        type: 'text',
+        question: "Qual è il nome dell’eroe interpretato da Harrison Ford in Indiana Jones?",
+        answer: "Indiana Jones",
+        category: "Cinema",
+        hint: "È anche un archeologo."
+    },
+  {
+        id: 'q137',
+        type: 'text',
+        question: "Chi interpreta il Joker ne Il Cavaliere Oscuro?",
+        answer: "Heath Ledger",
+        category: "Cinema",
+        hint: "Ha vinto un Oscar postumo."
+    },
+  {
+        id: 'q138',
+        type: 'text',
+        question: "Quale film ha la celebre frase Che la forza sia con te?",
+        answer: "Star Wars",
+        category: "Cinema",
+        hint: "Una saga spaziale molto amata."
+    },
+  {
+        id: 'q139',
+        type: 'text',
+        question: "Quale film d'animazione Pixar è ambientato in una cucina francese?",
+        answer: "Ratatouille",
+        category: "Disney/Pixar",
+        hint: "Il protagonista è un topo."
+    },
+  {
+        id: 'q140',
+        type: 'text',
+        question: "Chi è il protagonista di Forrest Gump?",
+        answer: "Tom Hanks",
+        category: "Cinema",
+        hint: "Corre molto."
+    },
+  {
+        id: 'q141',
+        type: 'text',
+        question: "Quanti Oscar ha vinto Il Signore degli Anelli: Il ritorno del re?",
+        answer: "11",
+        category: "Cinema",
+        hint: "Ha eguagliato il record di “Titanic” e “Ben-Hur”."
+    },
+  {
+        id: 'q142',
+        type: 'text',
+        question: "Che lavoro fa il personaggio principale in The Wolf of Wall Street?",
+        answer: "Broker",
+        category: "Cinema",
+        hint: "Lavora nella finanza."
+    },
+  {
+        id: 'q143',
+        type: 'text',
+        question: "Chi è l’attrice protagonista in Pretty Woman?",
+        answer: "Julia Roberts",
+        category: "Cinema",
+        hint: "Sorriso iconico."
+    },
+  {
+        id: 'q144',
+        type: 'text',
+        question: "Dove è ambientato La La Land?",
+        answer: "Los Angeles",
+        category: "Cinema",
+        hint: "Capitale del cinema USA."
+    },
+  {
+        id: 'q145',
+        type: 'text',
+        question: "Qual è il primo film Marvel del MCU?",
+        answer: "Iron Man",
+        category: "Cinema",
+        hint: "È uscito nel 2008."
+    },
+  {
+        id: 'q146',
+        type: 'text',
+        question: "Qual è la capitale dell’Australia?",
+        answer: "Canberra",
+        category: "Geografia",
+        hint: "Non è Sydney."
+    },
+  {
+        id: 'q147',
+        type: 'text',
+        question: "Quale oceano bagna le coste del Giappone?",
+        answer: "Pacifico",
+        category: "Geografia",
+        hint: "È il più grande oceano."
+    },
+  {
+        id: 'q148',
+        type: 'text',
+        question: "Qual è lo Stato più piccolo del mondo?",
+        answer: "Città del Vaticano",
+        category: "Geografia",
+        hint: "Si trova nel Lazio."
+    },
+  {
+        id: 'q149',
+        type: 'text',
+        question: "Quale monte è il più alto della Terra?",
+        answer: "Everest",
+        category: "Geografia",
+        hint: "Si trova nell’Himalaya."
+    },
+  {
+        id: 'q150',
+        type: 'text',
+        question: "Qual è la capitale della Norvegia?",
+        answer: "Oslo",
+        category: "Geografia",
+        hint: "Città scandinava."
+    },
+  {
+        id: 'q151',
+        type: 'text',
+        question: "Qual è il lago più profondo del mondo?",
+        answer: "Baikal",
+        category: "Geografia",
+        hint: "Si trova in Russia."
+    },
+  {
+        id: 'q152',
+        type: 'text',
+        question: "Qual è la capitale del Marocco?",
+        answer: "Rabat",
+        category: "Geografia",
+        hint: "Non è Casablanca."
+    },
+  {
+        id: 'q153',
+        type: 'text',
+        question: "Qual è la capitale dell’Argentina?",
+        answer: "Buenos Aires",
+        category: "Geografia",
+        hint: "Sede del tango."
+    },
+  {
+        id: 'q154',
+        type: 'text',
+        question: "Quale nazione ha più isole al mondo?",
+        answer: "Svezia",
+        category: "Geografia",
+        hint: "Ha più di 260.000 isole."
+    },
+  {
+        id: 'q155',
+        type: 'text',
+        question: "In quale mare sfocia il Danubio?",
+        answer: "Mar Nero",
+        category: "Geografia",
+        hint: "È vicino alla Romania."
+    },
+  {
+        id: 'q156',
+        type: 'text',
+        question: "Qual è la capitale della Thailandia?",
+        answer: "Bangkok",
+        category: "Geografia",
+        hint: "Celebre per la sua vita notturna e i templi."
+    },
+  {
+        id: 'q157',
+        type: 'text',
+        question: "In che continente si trova il monte Kilimangiaro?",
+        answer: "Africa",
+        category: "Geografia",
+        hint: "Si trova in Tanzania."
+    },
+  {
+        id: 'q158',
+        type: 'text',
+        question: "Chi ha scolpito il David?",
+        answer: "Michelangelo",
+        category: "Arte",
+        hint: "Ha anche dipinto la volta della Cappella Sistina."
+    },
+  {
+        id: 'q159',
+        type: 'text',
+        question: "Qual è lo stile artistico di Picasso?",
+        answer: "Cubismo",
+        category: "Arte",
+        hint: "Figure scomposte in forme geometriche."
+    },
+  {
+        id: 'q160',
+        type: 'text',
+        question: "Dove si trova il Museo del Louvre?",
+        answer: "Parigi",
+        category: "Arte",
+        hint: "Ha una piramide di vetro all'ingresso."
+    },
+  {
+        id: 'q161',
+        type: 'text',
+        question: "Chi ha dipinto Il bacio del 1907?",
+        answer: "Gustav Klimt",
+        category: "Arte",
+        hint: "Austriaco, uso frequente dell’oro."
+    },
+  {
+        id: 'q162',
+        type: 'text',
+        question: "Qual è il movimento artistico di Dalí?",
+        answer: "Surrealismo",
+        category: "Arte",
+        hint: "Celebre per gli orologi “molli”."
+    },
+  {
+        id: 'q163',
+        type: 'text',
+        question: "Chi ha inventato la prospettiva lineare?",
+        answer: "Filippo Brunelleschi",
+        category: "Arte",
+        hint: "Architetto della Cupola del Duomo di Firenze."
+    },
+  {
+        id: 'q164',
+        type: 'text',
+        question: "Dove si trova L’Ultima Cena di Leonardo da Vinci?",
+        answer: "Milano",
+        category: "Arte",
+        hint: "Nel convento di Santa Maria delle Grazie."
+    },
+  {
+        id: 'q165',
+        type: 'text',
+        question: "Quale pittore impressionista francese ha dipinto Impression, soleil levant?",
+        answer: "Claude Monet",
+        category: "Arte",
+        hint: "Il movimento prende nome da quest’opera."
+    },
+  {
+        id: 'q166',
+        type: 'text',
+        question: "Qual è il soggetto più dipinto da Andy Warhol?",
+        answer: "Marilyn Monroe",
+        category: "Arte",
+        hint: "Simbolo della pop art."
+    },
+  {
+        id: 'q167',
+        type: 'text',
+        question: "Chi ha dipinto La scuola di Atene?",
+        answer: "Raffaello",
+        category: "Arte",
+        hint: "Filosofi antichi in un affresco."
+    },
+  {
+        id: 'q168',
+        type: 'text',
+        question: "Qual è il materiale usato per Il pensatore di Rodin?",
+        answer: "Bronzo",
+        category: "Arte",
+        hint: "Una delle più famose sculture moderne."
+    },
+  {
+        id: 'q169',
+        type: 'text',
+        question: "Chi ha scolpito Amore e Psiche?",
+        answer: "Antonio Canova",
+        category: "Arte",
+        hint: "Maestro del Neoclassicismo."
+    },
+  {
+        id: 'q170',
+        type: 'text',
+        question: "In che Paese si trova il museo del Prado?",
+        answer: "Spagna",
+        category: "Arte",
+        hint: "Si trova nella sua capitale."
+    },
 ];
 
 
