@@ -154,7 +154,7 @@ const questions = [
         type: 'text',
         question: "Qual è il colore primario che manca nel semaforo?",
         answer: "Blu",
-        category: "Cultura Generale",
+        category: "Indovinelli",
         hint: "Non è rosso, giallo o verde."
     },
     {
@@ -1766,6 +1766,262 @@ const questions = [
         answer: "Leonard Bernstein",
         category: "Musica",
         hint: "Basato su Romeo e Giulietta."
+    },
+  {
+        id: 'q211',
+        type: 'text',
+        question: "Che cos'è il PIL?",
+        answer: "Prodotto Interno Lordo",
+        category: "Economia",
+        hint: "Misura la ricchezza prodotta da un Paese."
+    },
+  {
+        id: 'q212',
+        type: 'text',
+        question: "Chi stampa la moneta in Europa?",
+        answer: "Banca Centrale Europea",
+        category: "Economia",
+        hint: "Ha sede a Francoforte."
+    },
+  {
+        id: 'q213',
+        type: 'text',
+        question: "Chi è considerato il padre dell’economia moderna?",
+        answer: "Adam Smith",
+        category: "Economia",
+        hint: "Autore de La ricchezza delle nazioni."
+    },
+  {
+        id: 'q214',
+        type: 'text',
+        question: "Il nome di una criptovaluta molto famosa?",
+        answer: "Bitcoin",
+        category: "Economia",
+        hint: "Valuta digitale decentralizzata."
+    },
+  {
+        id: 'q215',
+        type: 'text',
+        question: "Qual è il motore di ricerca più usato al mondo?",
+        answer: "Google",
+        category: "Tecnologia",
+        hint: "Fondata nel 1998."
+    },
+  {
+        id: 'q216',
+        type: 'text',
+        question: "Chi ha creato Facebook?",
+        answer: "Mark Zuckerberg",
+        category: "Tecnologia",
+        hint: "Fondatore e CEO di Meta."
+    },
+  {
+        id: 'q217',
+        type: 'text',
+        question: "Qual è l’unità base della memoria digitale?",
+        answer: "Byte",
+        category: "Tecnologia",
+        hint: "1 kilobyte = 1024 di questi."
+    },
+  {
+        id: 'q218',
+        type: 'text',
+        question: "Cosa significa URL?",
+        answer: "Uniform Resource Locator",
+        category: "Tecnologia",
+        hint: "È l’indirizzo di un sito web."
+    },
+  {
+        id: 'q219',
+        type: 'text',
+        question: "Come si chiama il sistema operativo open source più famoso?",
+        answer: "Linux",
+        category: "Tecnologia",
+        hint: "Simbolo: un pinguino."
+    },
+  {
+        id: 'q220',
+        type: 'text',
+        question: "Che programma si usa per scrivere documenti?",
+        answer: "Microsoft Word",
+        category: "Tecnologia",
+        hint: "Parte del pacchetto Office."
+    },
+  {
+        id: 'q221',
+        type: 'text',
+        question: "Che software si usa per fare presentazioni?",
+        answer: "Microsoft PowerPoint",
+        category: "Tecnologia",
+        hint: "Parte del pacchetto Office."
+    },
+  {
+        id: 'q222',
+        type: 'text',
+        question: "Qual è la casa produttrice dell’iPhone?",
+        answer: "Apple",
+        category: "Tecnologia",
+        hint: "Fondata da Steve Jobs."
+    },
+  {
+        id: 'q223',
+        type: 'text',
+        question: "La mia vita può durare qualche ora, quello che produco mi divora. Sottile sono veloce, grossa sono lenta e il vento molto mi spaventa. Chi sono?",
+        answer: "Candela",
+        category: "Indovinelli",
+        hint: "Mettiti alla prova senza aiuto!"
+    },
+  {
+        id: 'q224',
+        type: 'text',
+        question: "Quando sono in piedi loro sono sdraiati, quando sono sdraiato loro sono in piedi. Chi sono?",
+        answer: "Piedi",
+        category: "Indovinelli",
+        hint: "Mettiti alla prova senza aiuto!"
+    },
+  {
+        id: 'q225',
+        type: 'text',
+        question: "Mio padre fa il cantante, mia madre è balbuziente. Il mio vestito è bianco e il mio cuore d’oro. Chi sono?",
+        answer: "Uovo",
+        category: "Indovinelli",
+        hint: "Mettiti alla prova senza aiuto!"
+    },
+  {
+        id: 'q226',
+        type: 'text',
+        question: "Ti tiene in vita, ma lo vedi solo d'inverno. Cos'é?",
+        answer: "Fiato",
+        category: "Indovinelli",
+        hint: "Mettiti alla prova senza aiuto!"
+    },
+  {
+        id: 'q227',
+        type: 'text',
+        question: "Viaggia in tutto il mondo stando in un angolo. Cos'è?",
+        answer: "Francobollo",
+        category: "Indovinelli",
+        hint: "Mettiti alla prova senza aiuto!"
+    },
+  {
+        id: 'q228',
+        type: 'text',
+        question: "La somma dell’età di 5 uomini è 121. Tra 20 anni quale sarà la somma della loro età?",
+        answer: "221",
+        category: "Indovinelli",
+        hint: "Mettiti alla prova senza aiuto!"
+    },
+  {
+        id: 'q229',
+        type: 'text',
+        question: "Può essere molto concentrato, ma non è capace di pensare.",
+        answer: "Pomodoro",
+        category: "Indovinelli",
+        hint: "Mettiti alla prova senza aiuto!"
+    },
+  {
+        id: 'q230',
+        type: 'text',
+        question: "Nell'acqua nasce, nell'acqua nutre, ma vedendo l'acqua sparisce. Chi è?",
+        answer: "Sale",
+        category: "Indovinelli",
+        hint: "Mettiti alla prova senza aiuto!"
+    },
+  {
+        id: 'q231',
+        type: 'text',
+        question: "Più persone mi custodiscono e meno sono al sicuro. Che cosa sono?",
+        answer: "Segreto",
+        category: "Indovinelli",
+        hint: "Mettiti alla prova senza aiuto!"
+    },
+  {
+        id: 'q232',
+        type: 'text',
+        question: "Vende prodotti freschi che nessuno mangia.",
+        answer: "Fioraio",
+        category: "Indovinelli",
+        hint: "Mettiti alla prova senza aiuto!"
+    },
+  {
+        id: 'q233',
+        type: 'text',
+        question: "Esisto solo con la luce, con l'oscurità la mia vita subito finisce.",
+        answer: "Ombra",
+        category: "Indovinelli",
+        hint: "Mettiti alla prova senza aiuto!"
+    },
+  {
+        id: 'q234',
+        type: 'text',
+        question: "È tutta buchi eppure piena d'acqua.",
+        answer: "Spugna",
+        category: "Indovinelli",
+        hint: "Mettiti alla prova senza aiuto!"
+    },
+  {
+        id: 'q235',
+        type: 'text',
+        question: "Lui ne ha 2, un cittadino ne ha 4 e un umano ne ha 3. Che cosa sono?",
+        answer: "Vocali",
+        category: "Indovinelli",
+        hint: "Mettiti alla prova senza aiuto!"
+    },
+  {
+        id: 'q236',
+        type: 'text',
+        question: "Ha un solo piede e porta il cappello giorno e notte senza mai toglierlo.",
+        answer: "Fungo",
+        category: "Indovinelli",
+        hint: "Mettiti alla prova senza aiuto!"
+    },
+  {
+        id: 'q237',
+        type: 'text',
+        question: "Non sente prurito, ma si gratta spesso e volentieri.",
+        answer: "Formaggio",
+        category: "Indovinelli",
+        hint: "Mettiti alla prova senza aiuto!"
+    },
+  {
+        id: 'q238',
+        type: 'text',
+        question: "Parla senza bocca, ti batte e non ti tocca, corre senza piedi, passa e non lo vedi",
+        answer: "Vento",
+        category: "Indovinelli",
+        hint: "Mettiti alla prova senza aiuto!"
+    },
+  {
+        id: 'q239',
+        type: 'text',
+        question: "Belli o brutti li puoi fare, ma a nessuno li puoi mostrare.",
+        answer: "Sogni",
+        category: "Indovinelli",
+        hint: "Mettiti alla prova senza aiuto!"
+    },
+  {
+        id: 'q240',
+        type: 'text',
+        question: "Più son caldo più son fresco, che fenomeno grottesco!",
+        answer: "Pane",
+        category: "Indovinelli",
+        hint: "Mettiti alla prova senza aiuto!"
+    },
+  {
+        id: 'q241',
+        type: 'text',
+        question: "Quando si uniscono, separano.",
+        answer: "Forbici",
+        category: "Indovinelli",
+        hint: "Mettiti alla prova senza aiuto!"
+    },
+  {
+        id: 'q242',
+        type: 'text',
+        question: "Cerco la terra e vado sempre nel mare, eppure non imparo mai a nuotare.",
+        answer: "Ancora",
+        category: "Indovinelli",
+        hint: "Mettiti alla prova senza aiuto!"
     },
 ];
 
