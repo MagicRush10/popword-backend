@@ -2023,6 +2023,33 @@ const questions = [
         category: "Indovinelli",
         hint: "Mettiti alla prova senza aiuto!"
     },
+  {
+        id: 'q243',
+        type: 'image',
+        imageUrl: "https://thewordgames.netlify.app/public/images/levi.jpg",
+        question: "Come si chiama questo personaggio?",
+        answer: "Levi",
+        category: "Anime e Manga",
+        hint: "Considerato il soldato più forte."
+    },
+  {
+        id: 'q244',
+        type: 'image',
+        imageUrl: "https://thewordgames.netlify.app/public/images/connie.jpg",
+        question: "Come si chiama questo personaggio?",
+        answer: "Connie",
+        category: "Anime e Manga",
+        hint: "Soldato del Corpo di Ricerca, diplomato con Eren."
+    },
+  {
+        id: 'q245',
+        type: 'image',
+        imageUrl: "https://thewordgames.netlify.app/public/images/annie.jpg",
+        question: "Come si chiama questo personaggio?",
+        answer: "Annie",
+        category: "Anime e Manga",
+        hint: "Possiede il gigante donna."
+    },
 ];
 
 
