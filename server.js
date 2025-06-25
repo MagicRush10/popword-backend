@@ -441,7 +441,7 @@ const questions = [
         id: 'q50',
         type: 'text',
         question: "In Blue Lock,chi è il giocatore che è ossessionato dal flow?",
-        answer: "Reazionario",
+        answer: "Rensuke Kunigami",
         category: "Anime e Manga",
         hint: "Ragazzo dai capelli biondi."
     },
