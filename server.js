@@ -1447,6 +1447,326 @@ const questions = [
         category: "Arte",
         hint: "Si trova nella sua capitale."
     },
+  {
+        id: 'q171',
+        type: 'text',
+        question: "Quanti denti ha un essere umano adulto?",
+        answer: "32",
+        category: "Scienze",
+        hint: "Inclusi i denti del giudizio."
+    },
+  {
+        id: 'q172',
+        type: 'text',
+        question: "Come si chiama la scienza che studia i terremoti?",
+        answer: "Sismologia",
+        category: "Scienze",
+        hint: "Usa i sismografi."
+    },
+  {
+        id: 'q173',
+        type: 'text',
+        question: "Qual è l’osso più lungo del corpo umano?",
+        answer: "Femore",
+        category: "Scienze",
+        hint: "Si trova nella gamba."
+    },
+  {
+        id: 'q174',
+        type: 'text',
+        question: "Come si chiama il processo di divisione cellulare?",
+        answer: "Mitosi",
+        category: "Scienze",
+        hint: "Avviene in quasi tutte le cellule."
+    },
+  {
+        id: 'q175',
+        type: 'text',
+        question: "Quale pianeta è conosciuto come il pianeta rosso?",
+        answer: "Marte",
+        category: "Scienze",
+        hint: "Ha molto ossido di ferro."
+    },
+  {
+        id: 'q176',
+        type: 'text',
+        question: "Che organo produce l’insulina?",
+        answer: "Pancreas",
+        category: "Scienze",
+        hint: "Essenziale per controllare la glicemia."
+    },
+  {
+        id: 'q177',
+        type: 'text',
+        question: "Cosa produce l’attrito?",
+        answer: "Calore",
+        category: "Scienze",
+        hint: "Avviene quando due superfici si sfregano."
+    },
+  {
+        id: 'q178',
+        type: 'text',
+        question: "Chi ha formulato la teoria della relatività?",
+        answer: "Albert Einstein",
+        category: "Scienze",
+        hint: "La formula è E=mc²."
+    },
+  {
+        id: 'q179',
+        type: 'text',
+        question: "In che unità si misura la forza?",
+        answer: "Newton",
+        category: "Scienze",
+        hint: "Dal nome di un famoso fisico."
+    },
+  {
+        id: 'q180',
+        type: 'text',
+        question: "Quanti cromosomi ha l’essere umano?",
+        answer: "46",
+        category: "Scienze",
+        hint: "23 coppie."
+    },
+  {
+        id: 'q181',
+        type: 'text',
+        question: "Come si chiama la scienza che studia gli organismi viventi?",
+        answer: "Biologia",
+        category: "Scienze",
+        hint: "Studia anche il DNA."
+    },
+  {
+        id: 'q182',
+        type: 'text',
+        question: "Quante valvole ha il cuore umano?",
+        answer: "4",
+        category: "Scienze",
+        hint: "Si trovano vicino al cuore."
+    },
+  {
+        id: 'q183',
+        type: 'text',
+        question: "Qual è il muscolo più forte del corpo umano?",
+        answer: "Massetere",
+        category: "Scienze",
+        hint: "Muscolo che permette la masticazione."
+    },
+  {
+        id: 'q184',
+        type: 'text',
+        question: "Quanti elementi ci sono nella tavola periodica?",
+        answer: "118",
+        category: "Scienze",
+        hint: "Sono più di 100."
+    },
+  {
+        id: 'q185',
+        type: 'text',
+        question: "Qual è l'animale più grande della Terra?",
+        answer: "Balenottera Azzurra",
+        category: "Scienze",
+        hint: "Animale marino."
+    },
+  {
+        id: 'q186',
+        type: 'text',
+        question: "Qual è l'unico mammifero capace di volare?",
+        answer: "Pipistrello",
+        category: "Scienze",
+        hint: "Animale che vive nelle grotte."
+    },
+  {
+        id: 'q187',
+        type: 'text',
+        question: "Qual è l'osso più piccolo del corpo umano?",
+        answer: "Staffa",
+        category: "Scienze",
+        hint: "Si trova nell'orecchio."
+    },
+  {
+        id: 'q188',
+        type: 'text',
+        question: "Quanti cuori ha un polipo?",
+        answer: "3",
+        category: "Scienze",
+        hint: "Hanno diversi ruoli."
+    },
+  {
+        id: 'q189',
+        type: 'text',
+        question: "In quale romanzo compare il personaggio di Don Abbondio?",
+        answer: "Promessi Sposi",
+        category: "Letteratura",
+        hint: "Scritto da Manzoni."
+    },
+  {
+        id: 'q190',
+        type: 'text',
+        question: "Chi ha scritto Orgoglio e pregiudizio?",
+        answer: "Jane Austen",
+        category: "Letteratura",
+        hint: "Scrittrice inglese dell’Ottocento."
+    },
+  {
+        id: 'q191',
+        type: 'text',
+        question: "In quale opera compare il personaggio di Ulisse?",
+        answer: "Odissea",
+        category: "Letteratura",
+        hint: "Attribuita a Omero."
+    },
+  {
+        id: 'q192',
+        type: 'text',
+        question: "Chi ha scritto Il barone rampante?",
+        answer: "Italo Calvino",
+        category: "Letteratura",
+        hint: "Appartiene alla trilogia degli antenati."
+    },
+  {
+        id: 'q193',
+        type: 'text',
+        question: "Come si chiama il poeta latino autore delle Metamorfosi?",
+        answer: "Ovidio",
+        category: "Letteratura",
+        hint: "Fu esiliato da Augusto."
+    },
+  {
+        id: 'q194',
+        type: 'text',
+        question: "Quale opera di Goethe è ispirata alla leggenda del patto con il diavolo?",
+        answer: "Faust",
+        category: "Letteratura",
+        hint: "Opera in due parti."
+    },
+  {
+        id: 'q195',
+        type: 'text',
+        question: "Chi ha scritto Le avventure di Pinocchio?",
+        answer: "Carlo Collodi",
+        category: "Letteratura",
+        hint: "Nome d’arte di Lorenzini."
+    },
+  {
+        id: 'q196',
+        type: 'text',
+        question: "Qual è il romanzo più noto di Mary Shelley?",
+        answer: "Frankenstein",
+        category: "Letteratura",
+        hint: "Scritto a 19 anni."
+    },
+  {
+        id: 'q197',
+        type: 'text',
+        question: "Chi è l’autore di Il fu Mattia Pascal?",
+        answer: "Luigi Pirandello",
+        category: "Letteratura",
+        hint: "Premio Nobel per la Letteratura."
+    },
+  {
+        id: 'q198',
+        type: 'text',
+        question: "Chi ha cantato Thriller?",
+        answer: "Michael Jackson",
+        category: "Musica",
+        hint: "È chiamato il Re del Pop."
+    },
+  {
+        id: 'q199',
+        type: 'text',
+        question: "Chi ha composto Le quattro stagioni?",
+        answer: "Antonio Vivaldi",
+        category: "Musica",
+        hint: "Era un prete e violinista veneziano."
+    },
+  {
+        id: 'q200',
+        type: 'text',
+        question: "Chi è il cantante dei Queen?",
+        answer: "Freddie Mercury",
+        category: "Musica",
+        hint: "Voce potente, icona anni 70-80."
+    },
+  {
+        id: 'q201',
+        type: 'text',
+        question: "In quale Paese è nato il genere reggae?",
+        answer: "Giamaica",
+        category: "Musica",
+        hint: "Bob Marley ne è il simbolo."
+    },
+  {
+        id: 'q202',
+        type: 'text',
+        question: "Quale cantante italiana ha vinto Sanremo nel 2024?",
+        answer: "Angelina Mango",
+        category: "Musica",
+        hint: "Figlia d’arte."
+    },
+  {
+        id: 'q203',
+        type: 'text',
+        question: "Chi canta Rolling in the Deep?",
+        answer: "Adele",
+        category: "Musica",
+        hint: "Cantautrice britannica pluripremiata."
+    },
+  {
+        id: 'q204',
+        type: 'text',
+        question: "Quale cantante è noto per la hit Shape of You?",
+        answer: "Ed Sheeran",
+        category: "Musica",
+        hint: "Capelli rossi, chitarrista."
+    },
+  {
+        id: 'q205',
+        type: 'text',
+        question: "Chi ha scritto l’opera La Traviata?",
+        answer: "Giuseppe Verdi",
+        category: "Musica",
+        hint: "Compositore simbolo dell’Italia unita."
+    },
+  {
+        id: 'q206',
+        type: 'text',
+        question: "Chi era il re del rock?",
+        answer: "Elvis Presley",
+        category: "Musica",
+        hint: "Nato a Tupelo, Mississippi."
+    },
+  {
+        id: 'q207',
+        type: 'text',
+        question: "Quanti tasti ha un pianoforte classico?",
+        answer: "88",
+        category: "Musica",
+        hint: "Bianchi e neri."
+    },
+  {
+        id: 'q208',
+        type: 'text',
+        question: "Che tipo di voce ha un uomo con timbro molto grave?",
+        answer: "Basso",
+        category: "Musica",
+        hint: "Voce profonda."
+    },
+  {
+        id: 'q209',
+        type: 'text',
+        question: "Chi canta Viva la vida?",
+        answer: "Coldplay",
+        category: "Musica",
+        hint: "Band britannica guidata da Chris Martin."
+    },
+  {
+        id: 'q210',
+        type: 'text',
+        question: "Chi è l’autore del musical West Side Story?",
+        answer: "Leonard Bernstein",
+        category: "Musica",
+        hint: "Basato su Romeo e Giulietta."
+    },
 ];
 
 
