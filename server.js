@@ -2095,6 +2095,15 @@ const questions = [
         category: "Anime e Manga",
         hint: "Ha lottato per il suo regno sotto mentite spoglie"
     },
+  {
+        id: 'q251',
+        type: 'image',
+        imageUrl: "https://thewordgames.netlify.app/public/images/bachira.jpg",
+        question: "Come si chiama questo personaggio?",
+        answer: "Bachira",
+        category: "Anime e Manga",
+        hint: "Gioca con il mostro che danza dentro di lui."
+    },
 ];
 
 
