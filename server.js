@@ -2050,6 +2050,51 @@ const questions = [
         category: "Anime e Manga",
         hint: "Possiede il gigante donna."
     },
+  {
+        id: 'q246',
+        type: 'image',
+        imageUrl: "https://thewordgames.netlify.app/public/images/corazon.jpg",
+        question: "Come si chiama questo personaggio?",
+        answer: "Corazon",
+        category: "Anime e Manga",
+        hint: "Ha fatto ridere un cuore spezzato."
+    },
+  {
+        id: 'q247',
+        type: 'image',
+        imageUrl: "https://thewordgames.netlify.app/public/images/mihawk.jpg",
+        question: "Come si chiama questo personaggio?",
+        answer: "Mihawk",
+        category: "Anime e Manga",
+        hint: "Brandisce la lama più affilata del mare."
+    },
+  {
+        id: 'q248',
+        type: 'image',
+        imageUrl: "https://thewordgames.netlify.app/public/images/shirahoshi.jpg",
+        question: "Come si chiama questo personaggio?",
+        answer: "Shirahoshi",
+        category: "Anime e Manga",
+        hint: "Può evocare i re degli abissi con il solo pianto."
+    },
+  {
+        id: 'q249',
+        type: 'image',
+        imageUrl: "https://thewordgames.netlify.app/public/images/katakuri.jpg",
+        question: "Come si chiama questo personaggio?",
+        answer: "Katakuri",
+        category: "Anime e Manga",
+        hint: "Vede il futuro."
+    },
+  {
+        id: 'q250',
+        type: 'image',
+        imageUrl: "https://thewordgames.netlify.app/public/images/vivi.jpeg",
+        question: "Come si chiama questo personaggio?",
+        answer: "Vivi",
+        category: "Anime e Manga",
+        hint: "Ha lottato per il suo regno sotto mentite spoglie"
+    },
 ];
 
 
