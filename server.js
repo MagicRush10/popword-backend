@@ -164,7 +164,7 @@ const questions = [
         answer: "Pelle",
         category: "Scienze",
         hint: "Ti copre tutto."
-    },
+    },/*
   {
         id: 'q16',
         type: 'text',
@@ -2022,7 +2022,7 @@ const questions = [
         answer: "Ancora",
         category: "Indovinelli",
         hint: "Mettiti alla prova senza aiuto!"
-    },
+    }, */
   {
         id: 'q243',
         type: 'image',
