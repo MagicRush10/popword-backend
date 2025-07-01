@@ -2104,6 +2104,69 @@ const questions = [
         category: "Anime e Manga",
         hint: "Gioca con il mostro che danza dentro di lui."
     },
+  {
+        id: 'q252',
+        type: 'image',
+        imageUrl: "https://thewordgames.netlify.app/public/images/dodoria.jpg",
+        question: "Come si chiama questo personaggio?",
+        answer: "Dodoria",
+        category: "Anime e Manga",
+        hint: "Tirapiedi di Freezer."
+    },
+  {
+        id: 'q253',
+        type: 'image',
+        imageUrl: "https://thewordgames.netlify.app/public/images/burter.jpg",
+        question: "Come si chiama questo personaggio?",
+        answer: "Burter",
+        category: "Anime e Manga",
+        hint: "Fa parte della squadra speciale Ginew."
+    },
+  {
+        id: 'q254',
+        type: 'image',
+        imageUrl: "https://thewordgames.netlify.app/public/images/gotenks.jpg",
+        question: "Come si chiama questo personaggio?",
+        answer: "Gotenks",
+        category: "Anime e Manga",
+        hint: "Fusione tra i due piccoli saiyan."
+    },
+  {
+        id: 'q255',
+        type: 'image',
+        imageUrl: "https://thewordgames.netlify.app/public/images/goten.jpg",
+        question: "Come si chiama questo personaggio?",
+        answer: "Goten",
+        category: "Anime e Manga",
+        hint: "Figlio di Goku."
+    },
+  {
+        id: 'q256',
+        type: 'image',
+        imageUrl: "https://thewordgames.netlify.app/public/images/c17.jpg",
+        question: "Come si chiama questo personaggio?",
+        answer: "C17",
+        category: "Anime e Manga",
+        hint: "Prima nemico in Z, poi amico in Super."
+    },
+  {
+        id: 'q257',
+        type: 'image',
+        imageUrl: "https://thewordgames.netlify.app/public/images/bergamo.jpg",
+        question: "Come si chiama questo personaggio?",
+        answer: "Bergamo",
+        category: "Anime e Manga",
+        hint: "Uno dei 3 fratelli del 9 Universo."
+    },
+  {
+        id: 'q258',
+        type: 'image',
+        imageUrl: "https://thewordgames.netlify.app/public/images/champa.jpg",
+        question: "Come si chiama questo personaggio?",
+        answer: "Champa",
+        category: "Anime e Manga",
+        hint: "Dio della distruzione del 6 Universo."
+    },
 ];
 
 
