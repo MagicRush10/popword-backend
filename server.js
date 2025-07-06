@@ -2166,6 +2166,330 @@ const questions = [
         answer: "Champa",
         category: "Anime e Manga",
         hint: "Dio della distruzione del 6 Universo."
+    }, 
+  {
+    id: 'q259',
+    type: 'text',
+    question: "Qual è il nome del cowboy protagonista di Toy Story?",
+    answer: "Woody",
+    category: "Disney/Pixar",
+    hint: "Ha un cappello marrone."
+  },
+  {
+    id: 'q260',
+    type: 'text',
+    question: "In quale film Pixar vediamo un ragazzino volare con una casa legata a palloncini?",
+    answer: "Up",
+    category: "Disney/Pixar",
+    hint: "La casa vola."
+  },
+  {
+    id: 'q261',
+    type: 'text',
+    question: "Chi è la protagonista del film Ribelle - The Brave?",
+    answer: "Merida",
+    category: "Disney/Pixar",
+    hint: "Ha lunghi capelli rossi e ama tirare con l’arco."
+  },
+  {
+    id: 'q262',
+    type: 'text',
+    question: "In quale film Pixar i sentimenti sono personaggi principali?",
+    answer: "Inside Out",
+    category: "Disney/Pixar",
+    hint: "Gioia, Tristezza, Rabbia..."
+  },
+  {
+    id: 'q263',
+    type: 'text',
+    question: "Chi è il miglior amico dinosauro del giovane Arlo?",
+    answer: "Spot",
+    category: "Disney/Pixar",
+    hint: "È un ragazzino selvaggio."
+  },
+  {
+    id: 'q264',
+    type: 'text',
+    question: "Quale pesce è alla ricerca del figlio nel film Alla ricerca di Nemo?",
+    answer: "Marlin",
+    category: "Disney/Pixar",
+    hint: "È il papà di Nemo."
+  },
+  {
+    id: 'q265',
+    type: 'text',
+    question: "Qual è il nome del mostro blu grande e peloso in Monsters & Co.?",
+    answer: "Sully",
+    category: "Disney/Pixar",
+    hint: "Ha il pelo azzurro e macchie viola."
+  },
+  {
+    id: 'q266',
+    type: 'text',
+    question: "Chi è il nemico principale in Gli Incredibili?",
+    answer: "Sindrome",
+    category: "Disney/Pixar",
+    hint: "Era un fan di Mr. Incredibile."
+  },
+  {
+    id: 'q267',
+    type: 'text',
+    question: "Come si chiama la figlia elastica di Mr. Incredibile?",
+    answer: "Violetta",
+    category: "Disney/Pixar",
+    hint: "Può diventare invisibile e creare scudi."
+  },
+  {
+    id: 'q268',
+    type: 'text',
+    question: "Qual è il nome del camaleonte in Rapunzel?",
+    answer: "Pascal",
+    category: "Disney/Pixar",
+    hint: "È piccolo e verde."
+  },
+  {
+    id: 'q269',
+    type: 'text',
+    question: "Come si chiama il regno in cui vive Elsa in Frozen?",
+    answer: "Arendelle",
+    category: "Disney/Pixar",
+    hint: "È coperto di neve per buona parte del film."
+  },
+  {
+    id: 'q270',
+    type: 'text',
+    question: "Chi aiuta Ralph a diventare un eroe in Ralph Spaccatutto?",
+    answer: "Vanellope",
+    category: "Disney/Pixar",
+    hint: "Guida un'auto da corsa."
+  },
+  {
+    id: 'q271',
+    type: 'text',
+    question: "Chi è il cattivo in Toy Story 3?",
+    answer: "Lotso",
+    category: "Disney/Pixar",
+    hint: "Un orsetto rosa profumato alla fragola."
+  },
+  {
+    id: 'q272',
+    type: 'text',
+    question: "Come si chiama il dinosauro protagonista di Il viaggio di Arlo?",
+    answer: "Arlo",
+    category: "Disney/Pixar",
+    hint: "È un apatosauro."
+  },
+  {
+    id: 'q273',
+    type: 'text',
+    question: "Chi è la regina delle nevi in Frozen?",
+    answer: "Elsa",
+    category: "Disney/Pixar",
+    hint: "Canta 'Let It Go'."
+  },
+  {
+    id: 'q274',
+    type: 'text',
+    question: "Quale film Pixar racconta la storia di un'anima che cerca di trovare il proprio scopo?",
+    answer: "Soul",
+    category: "Disney/Pixar",
+    hint: "Il protagonista è un musicista jazz."
+  },
+  {
+    id: 'q275',
+    type: 'text',
+    question: "Come si chiama il cavallo di Rapunzel?",
+    answer: "Maximus",
+    category: "Disney/Pixar",
+    hint: "È molto testardo e intelligente."
+  },
+  {
+    id: 'q276',
+    type: 'text',
+    question: "Quale personaggio Pixar è famoso per perdere costantemente la memoria a breve termine?",
+    answer: "Dory",
+    category: "Disney/Pixar",
+    hint: "È un pesce chirurgo blu."
+  },
+  {
+    id: 'q277',
+    type: 'text',
+    question: "Come si chiama la bambina che fa amicizia con i mostri in Monsters & Co.?",
+    answer: "Boo",
+    category: "Disney/Pixar",
+    hint: "È molto affezionata a Sully."
+  },
+  {
+    id: 'q278',
+    type: 'text',
+    question: "Qual è il nome della città sommersa in Luca?",
+    answer: "Portorosso",
+    category: "Disney/Pixar",
+    hint: "Ricorda i paesini italiani sul mare."
+  },
+  {
+    id: 'q279',
+    type: 'text',
+    question: "Chi è il migliore amico di Luca?",
+    answer: "Alberto",
+    category: "Disney/Pixar",
+    hint: "Ama esplorare e sognare una Vespa."
+  },
+  {
+    id: 'q280',
+    type: 'text',
+    question: "In quale film Pixar i protagonisti si trasformano in panda rossi giganti?",
+    answer: "Red",
+    category: "Disney/Pixar",
+    hint: "Succede quando provano emozioni forti."
+  },
+  {
+    id: 'q281',
+    type: 'text',
+    question: "Come si chiama il drago in Raya e l’ultimo drago?",
+    answer: "Sisu",
+    category: "Disney/Pixar",
+    hint: "Ha un aspetto giocoso e azzurro."
+  },
+  {
+    id: 'q282',
+    type: 'text',
+    question: "Come si chiama il robot femmina in WALL·E?",
+    answer: "EVE",
+    category: "Disney/Pixar",
+    hint: "È bianca e vola."
+  },
+  {
+    id: 'q283',
+    type: 'text',
+    question: "Quale personaggio Disney è un'eroina polinesiana?",
+    answer: "Vaiana",
+    category: "Disney/Pixar",
+    hint: "Ha una barca e un forte legame con l’oceano."
+  },
+  {
+    id: 'q284',
+    type: 'text',
+    question: "Quale animale è Flounder in La Sirenetta?",
+    answer: "Pesce",
+    category: "Disney/Pixar",
+    hint: "È amico di Ariel."
+  },
+  {
+    id: 'q285',
+    type: 'text',
+    question: "Come si chiama il granchio che canta 'Brillante' in Oceania?",
+    answer: "Tamatoa",
+    category: "Disney/Pixar",
+    hint: "Ama tutto ciò che luccica."
+  },
+  {
+        id: 'q286',
+        type: 'image',
+        imageUrl: "https://thewordgames.netlify.app/public/images/bolt.jpg",
+        question: "Come si chiama questo personaggio?",
+        answer: "Bolt",
+        category: "Disney/Pixar",
+        hint: "Crede di avere superpoteri."
+    },
+  {
+        id: 'q287',
+        type: 'image',
+        imageUrl: "https://thewordgames.netlify.app/public/images/hercules.jpg",
+        question: "Come si chiama questo personaggio?",
+        answer: "Hercules",
+        category: "Disney/Pixar",
+        hint: "È il figlio di Zeus, molto forte."
+    },
+  {
+        id: 'q288',
+        type: 'image',
+        imageUrl: "https://thewordgames.netlify.app/public/images/jafar.jpg",
+        question: "Come si chiama questo personaggio?",
+        answer: "Jafar",
+        category: "Disney/Pixar",
+        hint: "È il perfido stregone di Agrabah."
+    },
+  {
+        id: 'q289',
+        type: 'image',
+        imageUrl: "https://thewordgames.netlify.app/public/images/lilli.jpg",
+        question: "Come si chiama questo personaggio?",
+        answer: "Lilli",
+        category: "Disney/Pixar",
+        hint: "È una cocker spaniel molto elegante."
+    },
+  {
+        id: 'q290',
+        type: 'image',
+        imageUrl: "https://thewordgames.netlify.app/public/images/gaston.jpg",
+        question: "Come si chiama questo personaggio?",
+        answer: "Gaston",
+        category: "Disney/Pixar",
+        hint: "È vanitoso e vuole sposare Belle."
+    },
+  {
+        id: 'q290',
+        type: 'image',
+        imageUrl: "https://thewordgames.netlify.app/public/images/ursula.jpg",
+        question: "Come si chiama questo personaggio?",
+        answer: "Ursula",
+        category: "Disney/Pixar",
+        hint: "Strega del mare con tentacoli."
+    },
+  {
+        id: 'q291',
+        type: 'image',
+        imageUrl: "https://thewordgames.netlify.app/public/images/woody.jpg",
+        question: "Come si chiama questo personaggio?",
+        answer: "Woody",
+        category: "Disney/Pixar",
+        hint: "Cowboy di stoffa con un cappello."
+    },
+  {
+        id: 'q292',
+        type: 'image',
+        imageUrl: "https://thewordgames.netlify.app/public/images/sebastian.jpg",
+        question: "Come si chiama questo personaggio?",
+        answer: "Sebastian",
+        category: "Disney/Pixar",
+        hint: "Granchio rosso, maestro di musica."
+    },
+  {
+        id: 'q293',
+        type: 'image',
+        imageUrl: "https://thewordgames.netlify.app/public/images/simba.jpg",
+        question: "Come si chiama questo personaggio?",
+        answer: "Simba",
+        category: "Disney/Pixar",
+        hint: "Il re leone della savana."
+    },
+  {
+        id: 'q294',
+        type: 'image',
+        imageUrl: "https://thewordgames.netlify.app/public/images/mulan.jpg",
+        question: "Come si chiama questo personaggio?",
+        answer: "Mulan",
+        category: "Disney/Pixar",
+        hint: "Guerriera che si traveste da soldato."
+    },
+  {
+        id: 'q295',
+        type: 'image',
+        imageUrl: "https://thewordgames.netlify.app/public/images/bizet.jpg",
+        question: "Come si chiama questo personaggio?",
+        answer: "Bizet",
+        category: "Disney/Pixar",
+        hint: "È uno dei gatti jazzisti ne Gli Aristogatti."
+    },
+  {
+        id: 'q296',
+        type: 'image',
+        imageUrl: "https://thewordgames.netlify.app/public/images/muai.jpg",
+        question: "Come si chiama questo personaggio?",
+        answer: "Muai",
+        category: "Disney/Pixar",
+        hint: "Semidio tatuato con un amo magico."
     },
 ];
 
